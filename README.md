@@ -24,7 +24,7 @@ Clean Dart and SOLID principles.
 
 README and all documentation explaining the app composition, with selected architecture, state management, how to run app with requirements and all technical decisions.
 
-Would be nice if
+**Would be nice if**
 
 Smooth, beautiful and clean animations.
 
